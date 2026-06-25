@@ -1,0 +1,451 @@
+product_id,product_name,category,seller_id,price
+1,Better Pet Supplies,pet_supplies,121,90.26
+2,Police Toys,toys,97,70.59
+3,Or Toys,toys,147,16.24
+4,Carry Garden,garden,26,141.26
+5,Pull Beauty,beauty,87,47.22
+6,Wife Furniture,furniture,87,291.61
+7,Positive Sports,sports,94,291.13
+8,Lose Beauty,beauty,128,59.01
+9,Edge Home Decor,home_decor,138,39.97
+10,Teacher Sports,sports,13,96.22
+11,Box Groceries,groceries,103,32.77
+12,Senior Groceries,groceries,24,29.56
+13,Debate Groceries,groceries,25,24.9
+14,Better Sports,sports,18,174.26
+15,Science Auto Parts,auto_parts,122,179.44
+16,Whole Toys,toys,20,79.93
+17,Like Sports,sports,130,243.2
+18,Business Books,books,170,34.7
+19,Environmental Beauty,beauty,107,39.2
+20,Some Groceries,groceries,132,19.77
+21,Social Auto Parts,auto_parts,47,354.15
+22,Newspaper Furniture,furniture,133,1300.93
+23,Create Groceries,groceries,128,10.88
+24,Maybe Pet Supplies,pet_supplies,120,43.85
+25,Trip Furniture,furniture,137,1222.95
+26,Total Books,books,145,44.96
+27,Soon Electronics,electronics,134,304.73
+28,City Garden,garden,38,55.67
+29,Onto Pet Supplies,pet_supplies,176,116.0
+30,Table Books,books,106,22.53
+31,Just Home Decor,home_decor,163,38.5
+32,Would Books,books,69,50.3
+33,Hit Furniture,furniture,42,421.85
+34,Nature Groceries,groceries,61,18.02
+35,His Home Decor,home_decor,39,36.87
+36,Prevent Beauty,beauty,80,44.45
+37,Hard Auto Parts,auto_parts,112,177.48
+38,Move Electronics,electronics,52,258.48
+39,President Fashion,fashion,8,62.8
+40,Magazine Sports,sports,169,169.7
+41,Instead Furniture,furniture,11,1447.49
+42,Decide Garden,garden,6,20.51
+43,Office Home Decor,home_decor,81,94.22
+44,Congress Home Decor,home_decor,105,135.55
+45,Technology Furniture,furniture,169,1334.29
+46,Specific Books,books,36,17.98
+47,Smile Groceries,groceries,129,37.52
+48,Color Auto Parts,auto_parts,171,334.16
+49,Pull Auto Parts,auto_parts,65,206.13
+50,Firm Home Decor,home_decor,61,93.97
+51,Local Toys,toys,85,100.72
+52,Thousand Pet Supplies,pet_supplies,100,121.85
+53,Time Pet Supplies,pet_supplies,61,140.65
+54,Knowledge Beauty,beauty,37,14.08
+55,Dog Beauty,beauty,71,42.36
+56,Artist Sports,sports,151,26.22
+57,List Auto Parts,auto_parts,96,284.35
+58,Energy Home Decor,home_decor,82,86.4
+59,High Garden,garden,175,56.81
+60,Their Sports,sports,38,115.27
+61,Picture Pet Supplies,pet_supplies,95,124.1
+62,Film Electronics,electronics,166,1162.82
+63,By Groceries,groceries,9,34.13
+64,Your Furniture,furniture,14,1051.49
+65,Toward Furniture,furniture,62,416.83
+66,Possible Books,books,80,40.14
+67,Data Pet Supplies,pet_supplies,93,135.96
+68,Result Furniture,furniture,32,825.62
+69,Task Beauty,beauty,114,38.02
+70,Into Books,books,66,21.55
+71,Send Beauty,beauty,77,22.88
+72,Chair Fashion,fashion,113,131.8
+73,Step Furniture,furniture,105,1194.51
+74,Account Sports,sports,21,248.73
+75,Often Garden,garden,121,150.02
+76,Save Toys,toys,109,105.83
+77,Rate Home Decor,home_decor,42,107.79
+78,List Auto Parts,auto_parts,17,150.46
+79,Light Groceries,groceries,141,30.3
+80,Really Garden,garden,178,15.2
+81,Fast Electronics,electronics,165,798.58
+82,Relate Furniture,furniture,114,1196.98
+83,One Fashion,fashion,1,89.12
+84,Sport Furniture,furniture,79,504.9
+85,Perform Home Decor,home_decor,29,32.1
+86,Movement Auto Parts,auto_parts,167,308.82
+87,Whose Groceries,groceries,176,18.18
+88,Home Toys,toys,116,60.01
+89,Child Pet Supplies,pet_supplies,35,42.8
+90,Action Furniture,furniture,152,1248.81
+91,Picture Sports,sports,51,34.48
+92,Think Toys,toys,47,50.25
+93,Health Books,books,147,17.35
+94,Role Electronics,electronics,143,804.76
+95,Writer Furniture,furniture,59,1364.92
+96,Difference Garden,garden,51,59.74
+97,Left Fashion,fashion,13,89.19
+98,Cold Books,books,154,19.31
+99,Board Home Decor,home_decor,95,33.82
+100,Defense Groceries,groceries,31,3.52
+101,Idea Auto Parts,auto_parts,112,312.74
+102,Machine Garden,garden,173,103.89
+103,Listen Beauty,beauty,53,21.2
+104,Professional Sports,sports,74,226.47
+105,Major Books,books,34,28.72
+106,Wear Beauty,beauty,154,23.32
+107,Last Sports,sports,174,64.92
+108,Skin Fashion,fashion,105,161.61
+109,Thank Electronics,electronics,75,1173.26
+110,Design Beauty,beauty,159,43.33
+111,Market Beauty,beauty,95,54.55
+112,Administration Furniture,furniture,118,174.32
+113,Instead Garden,garden,35,175.57
+114,Third Pet Supplies,pet_supplies,102,104.59
+115,Two Pet Supplies,pet_supplies,99,107.73
+116,West Pet Supplies,pet_supplies,153,42.15
+117,International Home Decor,home_decor,143,18.23
+118,Surface Toys,toys,61,59.16
+119,Republican Toys,toys,156,113.02
+120,Participant Groceries,groceries,12,3.2
+121,Notice Auto Parts,auto_parts,159,161.66
+122,Cost Books,books,172,25.4
+123,Difficult Auto Parts,auto_parts,11,238.49
+124,Nor Sports,sports,44,156.09
+125,Dark Toys,toys,120,20.17
+126,Tonight Toys,toys,136,54.79
+127,Film Sports,sports,30,100.85
+128,Play Fashion,fashion,128,176.26
+129,Specific Sports,sports,93,278.61
+130,Material Sports,sports,68,187.75
+131,Factor Sports,sports,133,100.77
+132,Case Fashion,fashion,81,151.32
+133,Employee Garden,garden,39,115.58
+134,Meet Furniture,furniture,163,1207.42
+135,Ago Electronics,electronics,49,246.46
+136,Scientist Beauty,beauty,47,8.05
+137,Defense Sports,sports,42,214.73
+138,Report Books,books,30,59.74
+139,Push Garden,garden,11,93.89
+140,Either Pet Supplies,pet_supplies,144,75.35
+141,At Garden,garden,29,170.71
+142,Everyone Fashion,fashion,32,79.68
+143,That Beauty,beauty,73,20.36
+144,Effort Fashion,fashion,131,167.18
+145,Part Groceries,groceries,170,24.67
+146,Admit Groceries,groceries,2,22.46
+147,More Groceries,groceries,47,18.41
+148,Wind Home Decor,home_decor,64,117.56
+149,Must Furniture,furniture,25,1336.68
+150,Mouth Electronics,electronics,73,843.07
+151,Pick Furniture,furniture,32,621.55
+152,A Groceries,groceries,28,33.97
+153,Rock Fashion,fashion,8,30.0
+154,Vote Pet Supplies,pet_supplies,169,74.58
+155,Involve Furniture,furniture,69,911.6
+156,Than Electronics,electronics,85,1166.14
+157,Artist Furniture,furniture,160,1428.8
+158,Yet Toys,toys,146,19.87
+159,Determine Electronics,electronics,165,396.91
+160,Tend Electronics,electronics,19,692.81
+161,Executive Groceries,groceries,98,6.42
+162,Cut Sports,sports,46,79.62
+163,Shake Books,books,23,6.13
+164,Remain Beauty,beauty,42,38.02
+165,Out Books,books,73,40.59
+166,List Furniture,furniture,40,224.87
+167,Risk Garden,garden,111,149.82
+168,Show Sports,sports,176,185.02
+169,Base Toys,toys,171,16.05
+170,Sort Toys,toys,132,27.99
+171,As Garden,garden,100,100.52
+172,Doctor Groceries,groceries,154,18.65
+173,Open Books,books,95,38.76
+174,Billion Books,books,162,28.43
+175,Into Electronics,electronics,132,462.75
+176,Receive Garden,garden,174,52.6
+177,Begin Furniture,furniture,40,1399.47
+178,Three Auto Parts,auto_parts,162,264.18
+179,Set Home Decor,home_decor,75,75.55
+180,Page Home Decor,home_decor,123,52.06
+181,Cold Fashion,fashion,176,182.04
+182,Nothing Beauty,beauty,134,41.36
+183,Animal Groceries,groceries,13,23.39
+184,Card Electronics,electronics,132,200.55
+185,Suggest Books,books,106,10.2
+186,Shoulder Furniture,furniture,146,1228.6
+187,Table Toys,toys,66,72.34
+188,Other Auto Parts,auto_parts,5,58.87
+189,Machine Furniture,furniture,119,310.35
+190,How Fashion,fashion,101,23.37
+191,Address Books,books,77,22.27
+192,Carry Pet Supplies,pet_supplies,117,114.82
+193,Whatever Garden,garden,160,163.49
+194,Hear Toys,toys,48,29.27
+195,Four Home Decor,home_decor,155,46.3
+196,Industry Furniture,furniture,28,679.01
+197,Able Electronics,electronics,2,522.33
+198,Upon Electronics,electronics,44,814.5
+199,List Garden,garden,178,86.97
+200,Consumer Furniture,furniture,155,1102.57
+201,Pay Sports,sports,159,245.81
+202,Thousand Groceries,groceries,93,28.55
+203,Recent Pet Supplies,pet_supplies,173,62.27
+204,Night Sports,sports,23,46.28
+205,Federal Electronics,electronics,49,205.34
+206,Character Electronics,electronics,179,1166.98
+207,Paper Electronics,electronics,54,618.85
+208,Garden Fashion,fashion,167,59.73
+209,Build Furniture,furniture,138,326.83
+210,Fall Sports,sports,119,52.97
+211,Doctor Books,books,6,11.41
+212,Later Fashion,fashion,180,97.37
+213,Collection Garden,garden,121,13.73
+214,We Garden,garden,150,56.1
+215,National Sports,sports,146,250.54
+216,Relate Books,books,14,23.36
+217,Machine Home Decor,home_decor,162,128.67
+218,Recognize Books,books,107,51.67
+219,Seat Pet Supplies,pet_supplies,149,91.4
+220,Trouble Auto Parts,auto_parts,75,29.25
+221,Customer Books,books,125,33.23
+222,Level Pet Supplies,pet_supplies,157,140.62
+223,Reality Garden,garden,60,145.72
+224,Lead Auto Parts,auto_parts,5,177.47
+225,Reach Toys,toys,142,12.3
+226,Seven Furniture,furniture,107,1339.25
+227,Movement Home Decor,home_decor,127,97.18
+228,Together Furniture,furniture,89,700.07
+229,Effect Books,books,6,13.87
+230,Else Pet Supplies,pet_supplies,50,73.04
+231,Occur Garden,garden,60,106.45
+232,Maybe Groceries,groceries,176,15.55
+233,Glass Groceries,groceries,169,20.33
+234,However Sports,sports,100,288.34
+235,Deal Furniture,furniture,168,1115.15
+236,Future Garden,garden,42,128.15
+237,Full Sports,sports,177,227.28
+238,Future Furniture,furniture,124,237.19
+239,Without Beauty,beauty,41,56.49
+240,Form Home Decor,home_decor,107,142.03
+241,Past Garden,garden,78,54.6
+242,Every Auto Parts,auto_parts,13,399.72
+243,Student Toys,toys,67,46.06
+244,Town Fashion,fashion,45,168.17
+245,Back Auto Parts,auto_parts,9,325.62
+246,Lawyer Toys,toys,111,18.11
+247,Similar Beauty,beauty,31,52.77
+248,Explain Garden,garden,67,198.8
+249,Small Toys,toys,12,93.56
+250,For Auto Parts,auto_parts,69,360.08
+251,Sister Pet Supplies,pet_supplies,132,92.62
+252,Time Home Decor,home_decor,13,139.73
+253,Resource Garden,garden,118,192.9
+254,Floor Home Decor,home_decor,28,119.43
+255,Begin Groceries,groceries,27,33.47
+256,Picture Electronics,electronics,130,198.06
+257,Cause Furniture,furniture,31,1312.76
+258,Guess Toys,toys,41,88.76
+259,Art Pet Supplies,pet_supplies,114,115.48
+260,Station Garden,garden,26,39.32
+261,Character Toys,toys,86,99.2
+262,Without Home Decor,home_decor,52,71.48
+263,Society Books,books,2,18.49
+264,Tv Garden,garden,88,64.48
+265,Talk Fashion,fashion,22,64.21
+266,Name Pet Supplies,pet_supplies,107,57.29
+267,Policy Furniture,furniture,63,269.84
+268,Pressure Auto Parts,auto_parts,108,318.08
+269,Police Fashion,fashion,110,91.48
+270,Mean Books,books,118,57.35
+271,Stock Auto Parts,auto_parts,175,154.28
+272,Most Electronics,electronics,114,243.05
+273,Yeah Electronics,electronics,133,1136.88
+274,Computer Home Decor,home_decor,87,54.07
+275,Glass Fashion,fashion,112,26.37
+276,Member Electronics,electronics,170,1113.22
+277,Behind Fashion,fashion,148,25.69
+278,Nice Furniture,furniture,170,1319.93
+279,Word Sports,sports,108,126.58
+280,About Furniture,furniture,180,852.74
+281,Middle Sports,sports,81,273.68
+282,Reflect Electronics,electronics,72,1088.23
+283,Ago Groceries,groceries,38,28.91
+284,Into Garden,garden,165,48.98
+285,Institution Auto Parts,auto_parts,160,318.51
+286,Our Furniture,furniture,114,1061.33
+287,Within Furniture,furniture,104,1174.33
+288,Station Sports,sports,22,20.72
+289,Require Toys,toys,100,88.39
+290,Couple Pet Supplies,pet_supplies,33,80.47
+291,Brother Auto Parts,auto_parts,73,97.29
+292,Because Auto Parts,auto_parts,142,135.22
+293,Those Toys,toys,163,23.4
+294,Land Electronics,electronics,139,743.6
+295,Already Beauty,beauty,78,66.75
+296,So Auto Parts,auto_parts,29,296.81
+297,Know Toys,toys,67,77.1
+298,Put Toys,toys,32,10.49
+299,Parent Furniture,furniture,32,700.67
+300,Measure Groceries,groceries,2,19.77
+301,Space Beauty,beauty,149,53.08
+302,Congress Furniture,furniture,171,823.27
+303,Sport Groceries,groceries,60,15.96
+304,Worry Sports,sports,171,237.59
+305,Politics Pet Supplies,pet_supplies,147,102.5
+306,Where Pet Supplies,pet_supplies,97,80.35
+307,Skin Beauty,beauty,27,32.87
+308,Reality Groceries,groceries,50,33.45
+309,Huge Toys,toys,117,16.27
+310,Despite Pet Supplies,pet_supplies,109,125.12
+311,Box Home Decor,home_decor,24,18.71
+312,Election Fashion,fashion,122,54.74
+313,Particularly Home Decor,home_decor,95,104.76
+314,Tv Books,books,151,35.74
+315,Better Books,books,68,37.14
+316,Against Furniture,furniture,109,1494.94
+317,Then Pet Supplies,pet_supplies,126,111.1
+318,Middle Books,books,42,12.94
+319,Budget Fashion,fashion,125,146.56
+320,American Fashion,fashion,132,174.71
+321,Give Home Decor,home_decor,178,39.77
+322,Subject Garden,garden,9,151.83
+323,Just Auto Parts,auto_parts,95,369.85
+324,Fear Home Decor,home_decor,155,129.32
+325,Nice Home Decor,home_decor,31,61.74
+326,Guy Sports,sports,11,161.61
+327,Affect Home Decor,home_decor,96,52.69
+328,Machine Toys,toys,78,38.81
+329,Make Electronics,electronics,37,239.2
+330,Your Groceries,groceries,108,4.8
+331,Another Sports,sports,73,72.52
+332,Society Pet Supplies,pet_supplies,126,5.3
+333,Beautiful Auto Parts,auto_parts,90,41.01
+334,Along Electronics,electronics,107,618.92
+335,Top Sports,sports,145,141.19
+336,Expect Toys,toys,97,59.65
+337,Tree Pet Supplies,pet_supplies,156,24.26
+338,Realize Fashion,fashion,130,132.75
+339,Anything Garden,garden,171,95.32
+340,Recognize Pet Supplies,pet_supplies,84,17.95
+341,Everything Groceries,groceries,171,26.07
+342,Report Books,books,60,54.51
+343,Weight Toys,toys,139,10.27
+344,Town Furniture,furniture,114,1117.07
+345,Firm Furniture,furniture,23,1305.63
+346,Though Pet Supplies,pet_supplies,7,87.94
+347,Far Pet Supplies,pet_supplies,80,86.35
+348,Guess Home Decor,home_decor,165,88.31
+349,Minute Beauty,beauty,159,51.06
+350,Lot Electronics,electronics,146,664.36
+351,Process Garden,garden,129,180.4
+352,Term Home Decor,home_decor,169,141.07
+353,Discover Fashion,fashion,5,65.87
+354,Ahead Beauty,beauty,63,75.52
+355,Sure Groceries,groceries,114,6.13
+356,Part Auto Parts,auto_parts,156,138.37
+357,Meeting Groceries,groceries,12,21.18
+358,Sense Electronics,electronics,88,569.46
+359,Sound Books,books,7,52.28
+360,Direction Toys,toys,98,34.58
+361,Yeah Home Decor,home_decor,26,85.85
+362,Those Sports,sports,37,62.97
+363,Call Home Decor,home_decor,40,52.95
+364,Analysis Books,books,174,14.31
+365,Piece Groceries,groceries,84,9.71
+366,Word Pet Supplies,pet_supplies,15,48.21
+367,Much Home Decor,home_decor,82,29.94
+368,Account Toys,toys,67,48.18
+369,Similar Home Decor,home_decor,14,38.36
+370,Pull Groceries,groceries,151,11.75
+371,Third Auto Parts,auto_parts,130,163.24
+372,Street Home Decor,home_decor,69,18.49
+373,Get Garden,garden,142,87.34
+374,Pm Garden,garden,8,87.42
+375,Food Beauty,beauty,5,27.88
+376,Network Groceries,groceries,173,6.76
+377,Crime Auto Parts,auto_parts,167,317.31
+378,Age Sports,sports,146,127.96
+379,Manage Home Decor,home_decor,163,80.06
+380,Director Fashion,fashion,96,114.98
+381,Boy Fashion,fashion,63,114.44
+382,Effect Books,books,143,29.85
+383,Drop Electronics,electronics,119,1156.45
+384,For Groceries,groceries,75,27.16
+385,Above Fashion,fashion,1,26.13
+386,Join Garden,garden,70,123.59
+387,Star Furniture,furniture,98,1498.9
+388,Cultural Furniture,furniture,55,898.48
+389,Agent Auto Parts,auto_parts,73,32.51
+390,Detail Pet Supplies,pet_supplies,137,86.65
+391,Although Sports,sports,23,124.64
+392,Develop Home Decor,home_decor,36,111.51
+393,Level Sports,sports,111,71.15
+394,Food Auto Parts,auto_parts,82,355.31
+395,Author Toys,toys,163,35.06
+396,Have Pet Supplies,pet_supplies,116,44.59
+397,Entire Furniture,furniture,83,545.36
+398,Figure Garden,garden,154,72.41
+399,Natural Pet Supplies,pet_supplies,35,98.73
+400,Side Electronics,electronics,156,613.71
+401,Song Electronics,electronics,173,274.36
+402,We Auto Parts,auto_parts,179,285.77
+403,Bank Books,books,138,9.46
+404,Market Furniture,furniture,167,162.41
+405,At Electronics,electronics,172,578.6
+406,Up Home Decor,home_decor,91,146.09
+407,With Books,books,154,24.69
+408,Process Fashion,fashion,179,197.0
+409,Order Home Decor,home_decor,119,61.87
+410,Save Beauty,beauty,114,5.8
+411,Brother Pet Supplies,pet_supplies,6,114.97
+412,Foot Furniture,furniture,92,327.69
+413,Hour Groceries,groceries,161,14.22
+414,Authority Pet Supplies,pet_supplies,57,38.97
+415,Value Garden,garden,93,16.99
+416,Month Garden,garden,156,49.73
+417,Realize Beauty,beauty,164,38.67
+418,Hand Sports,sports,146,155.09
+419,Think Fashion,fashion,142,50.85
+420,Can Pet Supplies,pet_supplies,145,102.47
+421,Performance Groceries,groceries,145,9.49
+422,Pretty Groceries,groceries,33,30.6
+423,Until Fashion,fashion,67,187.71
+424,Former Beauty,beauty,134,66.96
+425,Interesting Sports,sports,50,255.82
+426,Discover Electronics,electronics,178,839.06
+427,Else Groceries,groceries,65,28.19
+428,These Garden,garden,1,188.2
+429,According Furniture,furniture,173,1417.46
+430,Decade Electronics,electronics,83,564.45
+431,Half Books,books,71,11.69
+432,Government Auto Parts,auto_parts,120,205.8
+433,Star Auto Parts,auto_parts,12,355.26
+434,Matter Beauty,beauty,13,28.62
+435,Full Books,books,137,29.69
+436,Drive Electronics,electronics,101,297.96
+437,Require Home Decor,home_decor,147,123.07
+438,Marriage Pet Supplies,pet_supplies,58,146.82
+439,Represent Books,books,20,55.43
+440,Ok Beauty,beauty,43,32.98
+441,Foreign Home Decor,home_decor,161,97.54
+442,You Electronics,electronics,123,563.78
+443,Road Electronics,electronics,152,972.89
+444,Letter Toys,toys,65,33.42
+445,After Garden,garden,62,192.17
+446,Discover Electronics,electronics,86,662.04
+447,Project Beauty,beauty,19,70.94
+448,Community Groceries,groceries,113,31.27
+449,Officer Furniture,furniture,115,889.45
+450,Will Home Decor,home_decor,16,138.34

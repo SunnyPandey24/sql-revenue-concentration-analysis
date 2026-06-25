@@ -1,0 +1,181 @@
+seller_id,seller_name,region
+1,Miller Group,Central
+2,Mason-Arroyo,North
+3,Ford-Brown,North
+4,Brown-Scott,East
+5,"Lyons, Gonzalez and Smith",West
+6,Anderson-Barber,North
+7,Watts-White,West
+8,Reed-Juarez,East
+9,Waller Ltd,West
+10,"Bailey, Ramsey and Johnson",Central
+11,Lopez Group,East
+12,White Group,West
+13,Miller Group,South
+14,White-Harris,Central
+15,Owens Inc,West
+16,Carlson-Shannon,East
+17,Little-Nixon,West
+18,"Cortez, Church and Walsh",South
+19,Powell-Garrison,North
+20,Stewart-Haynes,West
+21,"Archer, Turner and Kline",East
+22,"Dunn, Pollard and Blake",South
+23,Cherry-Medina,North
+24,"Smith, Rosales and Hicks",West
+25,Walker-Dean,North
+26,"Avila, Hendrix and Steele",West
+27,Johnson-Brown,West
+28,Morales-White,Central
+29,Stokes Inc,North
+30,Anderson-Cummings,North
+31,Kennedy Group,South
+32,"Perez, Lawrence and Allen",West
+33,Mathis Group,West
+34,Bell-Tucker,Central
+35,Morales Inc,North
+36,Sellers-Holder,South
+37,Green-Fischer,North
+38,"Mccormick, Mccullough and Weber",East
+39,"Henderson, Wright and Andrade",South
+40,"Stevenson, Schwartz and Vasquez",East
+41,Lawson-Santiago,South
+42,Mcguire PLC,Central
+43,"Carey, Sanchez and Cannon",West
+44,"Rosario, Potts and Cruz",North
+45,Williams-Johnson,South
+46,Simon-Powers,West
+47,Bradley-Greer,West
+48,Marsh LLC,East
+49,White Inc,Central
+50,West-Berry,Central
+51,Hamilton-Diaz,East
+52,Henry-Watson,West
+53,Hendricks and Sons,East
+54,Nelson LLC,West
+55,Baker Inc,Central
+56,Gonzales and Sons,West
+57,"Bowers, Acosta and Ramirez",West
+58,"Quinn, Grimes and Robinson",Central
+59,Smith-Strickland,East
+60,Gutierrez LLC,South
+61,Webb Group,West
+62,Diaz Ltd,North
+63,Young-Johnson,North
+64,Santos-Hartman,East
+65,Hunter-Butler,West
+66,"Sanchez, Carter and Guzman",West
+67,"Mcknight, Pena and Ali",South
+68,Reyes-Walker,South
+69,Lee-Fletcher,North
+70,Estrada Group,North
+71,Watson-Gray,North
+72,Griffin PLC,North
+73,Henderson-Mathews,West
+74,Barker PLC,North
+75,Rodgers LLC,South
+76,"Avila, Rodriguez and Patel",West
+77,"Watson, Osborne and Knight",Central
+78,Smith-Manning,East
+79,Williams PLC,South
+80,Shepard and Sons,East
+81,Black Ltd,Central
+82,"Tucker, Yang and Noble",Central
+83,"Smith, Campbell and Crosby",North
+84,Ray-Beasley,North
+85,Payne-Haynes,Central
+86,Knapp-Rivera,West
+87,Riley-Estrada,West
+88,"Boyer, Dixon and Robertson",South
+89,Hays-Anderson,East
+90,"Roberson, Jimenez and Houston",West
+91,Miller-Pollard,West
+92,"Roth, Hamilton and Frazier",Central
+93,Johnson-Pruitt,East
+94,Matthews-Morse,Central
+95,Scott and Sons,East
+96,Shelton and Sons,Central
+97,Walter PLC,Central
+98,Lee-Moreno,North
+99,Whitehead PLC,North
+100,"Thompson, Woodward and Hamilton",West
+101,Harris and Sons,North
+102,Kelly Inc,West
+103,Ramirez and Sons,West
+104,"Vincent, Curry and Moore",East
+105,Johnson and Sons,West
+106,Diaz-Sanders,West
+107,"Bennett, Ferguson and Brown",West
+108,"Ramos, Smith and Cain",North
+109,Mathews-Alexander,North
+110,Mcfarland-Woods,South
+111,Mueller-Rogers,Central
+112,Murray Inc,East
+113,Ford-Little,South
+114,Yates Inc,West
+115,"Oconnell, Kim and Evans",West
+116,"Lynch, Hunter and Washington",South
+117,"Moss, Perez and Lewis",East
+118,Valencia-Silva,West
+119,Thornton Inc,West
+120,Santiago-Hood,North
+121,Bright-Walls,Central
+122,"Nunez, Brown and Hale",West
+123,"Johnson, Duncan and Hale",Central
+124,"Perez, Taylor and Myers",Central
+125,Torres Group,Central
+126,Henry-Williams,West
+127,Jimenez-Walton,West
+128,"Eaton, Berger and Green",Central
+129,Shaw PLC,South
+130,"Bishop, Thomas and Wright",Central
+131,"Garcia, George and Miller",North
+132,Rangel-Hoffman,West
+133,Hunt-Wells,East
+134,Hart Group,West
+135,"Cox, Williams and Long",Central
+136,"Davis, Bennett and Marshall",West
+137,Cunningham Ltd,Central
+138,Parker Inc,East
+139,Lynn-Salazar,East
+140,"Huang, Myers and Carter",East
+141,Scott Group,North
+142,"Butler, Bailey and Carroll",North
+143,"Kelly, Phillips and Williams",Central
+144,"Roberts, Robinson and Trevino",North
+145,Thompson-Brown,South
+146,Baker and Sons,East
+147,Santiago-Patrick,East
+148,Lee Inc,Central
+149,"Everett, Fernandez and Brennan",North
+150,Payne and Sons,East
+151,"Webster, Marsh and Randolph",West
+152,"Clarke, Ball and Carpenter",North
+153,Anderson and Sons,West
+154,Haney-Hubbard,East
+155,Larsen Inc,East
+156,"Smith, Ferguson and Hunter",West
+157,"Henson, French and Watkins",East
+158,Ellison-Keller,North
+159,"Ward, Johnson and Cohen",South
+160,"Stephens, Grant and Rivas",South
+161,"Johnson, Irwin and Brown",South
+162,Sawyer-Smith,East
+163,"Moreno, Monroe and Cox",Central
+164,Berger-Rodriguez,North
+165,Ortiz-Wells,North
+166,Gross-Anderson,East
+167,"Wang, Bell and Wood",North
+168,"Lawrence, Patton and Davenport",East
+169,"Mcguire, Reynolds and Carter",South
+170,"Chambers, Gordon and Bailey",North
+171,Reilly Group,Central
+172,Adams-Anderson,East
+173,Cabrera LLC,North
+174,Cunningham PLC,West
+175,Clark-Martin,West
+176,"Anderson, Bailey and Olsen",Central
+177,Gross-Vincent,Central
+178,"Shaw, Davis and Boyd",West
+179,Mckinney-Bowman,East
+180,Holland LLC,North
